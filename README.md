@@ -65,8 +65,10 @@ zamp-ai-workflow/
 ├── app.py
 ├── workflow.py
 ├── sample_tickets.csv
+├── test_workflow.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## 7. Key Features
